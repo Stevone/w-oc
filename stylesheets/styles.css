@@ -90,5 +90,8 @@ img:last-of-type {
   color: #fff;
   text-shadow: 0 2px 2px #000;
 }
-
+#title {
+  background-image: url("/back.jpg");
+   background-attachment: fixed;  
+}
 
