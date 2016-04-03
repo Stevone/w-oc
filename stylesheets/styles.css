@@ -92,7 +92,7 @@ img:last-of-type {
 }
 
 #title {
-  background-image: url(/back.jpg);
+  background-image: url("https://github.com/Stevone/w-oc/back.jpg");
    background-attachment: fixed;  
 }
 
