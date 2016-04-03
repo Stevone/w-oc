@@ -18,6 +18,8 @@ body {
 
 h1 {
    font-size: 250%
+   line-height: 150%;
+  color: #333;
 }
 
 p {
